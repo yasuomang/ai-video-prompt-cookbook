@@ -1,10 +1,5 @@
 # AI Video Prompt Cookbook
 
-> **Publish status:** REVISION_DRAFT
-> **Resource cluster:** `templates-reusable-assets`
->
-> Use this draft only to repair the already-published GitHub README. Do not publish it as a new page until the linked LumiYing targets exist, the examples are checked, and this status is changed to `READY`.
-
 Practical prompt patterns for creators testing image-to-video and text-to-video workflows.
 
 This cookbook is for creators, marketers, and small content teams who need usable AI video clips, not one-off demo prompts. It focuses on source image prep, motion wording, preservation constraints, repeatable testing, and failure review.
@@ -116,18 +111,9 @@ ai-video-prompt-cookbook/
   scorecards/
 ```
 
-## LumiYing References
-
-Existing useful target:
+## Related LumiYing Resource
 
 - Image-to-video workflow: https://lumiying.com/tools/image-to-video
-
-Planned targets to add before this draft becomes `READY`:
-
-- AI video prompt builder
-- AI video evaluation scorecard
-- AI video prompt template library
-- Same-prompt AI video comparison guide
 
 ## License
 
