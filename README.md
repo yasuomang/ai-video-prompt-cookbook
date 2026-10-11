@@ -65,6 +65,20 @@ Negative constraints: no fake text overlays, no changed packaging, no extra hand
 Success criteria: the product is readable in the first second and can support a voiceover.
 ```
 
+## Prompt Library
+
+Prompt cards by clip job:
+
+- Product videos: [sneaker studio](prompts/product-videos/sneaker-studio.md), [skincare bottle](prompts/product-videos/skincare-bottle.md), [hero rotate](prompts/product-videos/hero-rotate.md), [ingredient splash](prompts/product-videos/ingredient-splash.md), [lifestyle desk](prompts/product-videos/lifestyle-desk.md), [unboxing](prompts/product-videos/unboxing.md), [apparel on-model](prompts/product-videos/apparel-on-model.md), [food close-up](prompts/product-videos/food-close-up.md)
+- Social ads: [UGC-style hook](prompts/social-ads/ugc-style-hook.md), [vertical app demo](prompts/social-ads/vertical-app-demo.md), [launch teaser](prompts/social-ads/launch-teaser.md), [vertical pet hook](prompts/social-ads/vertical-pet-hook.md), [before / after](prompts/social-ads/before-after.md), [talking to camera](prompts/social-ads/talking-to-camera.md), [photo comes alive](prompts/social-ads/photo-comes-alive.md)
+- Image-to-video: [product start frame](prompts/image-to-video/product-start-frame.md), [portrait motion](prompts/image-to-video/portrait-motion.md), [cinematic scene](prompts/image-to-video/cinematic-scene.md)
+- Text-to-video: [product concept](prompts/text-to-video/product-concept.md), [explainer background](prompts/text-to-video/explainer-background.md)
+
+Wording references for the `Camera` and `Style` fields:
+
+- [Camera moves and shot terms](reference/camera-and-shots.md)
+- [Lighting and style wording](reference/lighting-and-styles.md)
+
 ## Same-Prompt Model Test
 
 When comparing models, keep the job and prompt stable. Do not change the prompt after seeing the first result, or the comparison becomes a prompt rewrite test instead of a model comparison.
@@ -104,16 +118,20 @@ Do not keep a clip just because it looks impressive. Keep it only if it solves t
 
 ```text
 ai-video-prompt-cookbook/
-  product-video-prompts/
-  ugc-ad-prompts/
-  same-prompt-tests/
-  failure-notes/
-  scorecards/
+  prompts/
+    image-to-video/
+    product-videos/
+    social-ads/
+    text-to-video/
+  reference/
+  examples/
+  evaluations/
 ```
 
 ## Related LumiYing Resource
 
 - Image-to-video workflow: https://lumiying.com/tools/image-to-video
+- Product photo to video: https://lumiying.com/tools/ai-product-video
 
 ## License
 
