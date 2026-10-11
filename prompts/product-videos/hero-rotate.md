@@ -1,5 +1,9 @@
 # Hero Rotate Product Video
 
+![Amber serum bottle rotating slowly on a dark stone pedestal](../../assets/examples/hero-rotate-serum.gif)
+
+*Example from LumiYing*
+
 ```text
 Subject: [product] on a glossy black pedestal.
 Input type: start frame / product image.

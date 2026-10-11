@@ -1,5 +1,9 @@
 # AI Video Prompt Cookbook
 
+![AI product video example: serum bottle rotating on a pedestal](assets/examples/hero-rotate-serum.gif)
+
+*Example from LumiYing*
+
 Practical prompt patterns for creators testing image-to-video and text-to-video workflows.
 
 This cookbook is for creators, marketers, and small content teams who need usable AI video clips, not one-off demo prompts. It focuses on source image prep, motion wording, preservation constraints, repeatable testing, and failure review.

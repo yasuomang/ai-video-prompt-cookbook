@@ -1,5 +1,9 @@
 # Before / After Transformation Clip
 
+![Before and after: a cluttered reading corner transformed into a tidy, minimal one](../../assets/examples/before-after-room.jpg)
+
+*Example from LumiYing*
+
 ```text
 Subject: a messy bedroom.
 Camera movement: wide, locked off.

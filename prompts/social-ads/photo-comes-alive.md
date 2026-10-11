@@ -1,5 +1,9 @@
 # Photo Comes Alive Clip
 
+![Still portrait of a woman by a window coming to life with a natural smile and movement](../../assets/examples/photo-comes-alive-portrait.gif)
+
+*Example from LumiYing*
+
 ```text
 Subject: [an old family photo / group photo].
 Input type: start frame / photo.

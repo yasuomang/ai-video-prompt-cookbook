@@ -1,5 +1,9 @@
 # Food Close-Up Video
 
+![Close-up of an iced matcha latte and matcha dessert with gentle motion](../../assets/examples/food-close-up-matcha.gif)
+
+*Example from LumiYing*
+
 ```text
 Subject: a slice of pizza being lifted from a pan.
 Input type: text-to-video or start frame.
